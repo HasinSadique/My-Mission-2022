@@ -1,0 +1,154 @@
+    section {
+        padding-left: 10%;
+        padding-right: 10%;
+        margin-bottom: 10%;
+    }
+    
+    body {
+        /* background-color: black; */
+        background-image: linear-gradient(to left,black, rgb(66, 66, 66));
+        color: white;
+        padding-top: 5%;
+        margin: 0%;
+    }
+    
+    #flexible-Sections {
+        display: flex;
+    }
+    
+    .halve-length-div {
+        width: 50%;
+    }
+    
+    .halve-length-div img {
+        width: 70%;
+        margin-left: 20%;
+    }
+    
+    span {
+        color: orange;
+    }
+    
+    #intro {
+        border-left: 2px solid red;
+        padding-left: 10px;
+        font-size: 28px;
+    }
+    
+    .themed-button {
+        background-color: red;
+        padding: 10px 30px;
+        color: white;
+        text-decoration: none;
+        border-radius: 10px;
+    }
+    
+    .space-after-text {
+        margin-bottom: 50px;
+    }
+    
+    .space-before-text {
+        margin-top: 50px;
+    }
+    
+    #my-mission {
+        text-align: center;
+        font-size: 36px;
+    }
+    
+    #mission {
+        width: 30%;
+        background-color: rgb(190, 125, 3);
+        margin-right: 20px;
+        padding: 10px 25px;
+        border-radius: 20px;
+    }
+    
+    #mission p{
+        text-align: justify;
+    }
+    #mission img {
+        width: 60%;
+    }
+    
+    #vission {
+        width: 30%;
+        background-color: green;
+        margin-right: 20px;
+        padding: 10px 25px;
+        border-radius: 20px;
+    }
+    
+    #vission img {
+        width: 60%;
+    }
+    
+    #goals {
+        width: 30%;
+        background-color: burlywood;
+        margin-right: 20px;
+        /* padding: 30%; */
+        padding: 10px 25px;
+        border-radius: 20px;
+    }
+    
+    #goals img {
+        width: 60%;
+    }
+    
+    #quarter {
+        width: 35%;
+    }
+    
+    #quarter img {
+        width: 85%;
+    }
+    
+    #three-quarter {
+        width: 65%;
+    }
+    
+    .space {
+        margin-right: 10%;
+    }
+    
+    footer{
+        background-color: black;
+    }
+    footer h2 {
+        font-family: cursive;
+        text-align: center;
+    }
+    
+    footer p {
+        text-align: center;
+    }
+
+    footer h6 {
+        text-align: center;
+    }
+    
+    hr.solid {
+        border-top: 0.5px solid white;
+    }
+    
+    .promo {
+        width: 50%;
+        text-align: center;
+        color: red;
+        background-color: white;
+        border-radius: 20px;
+        padding: 30px 0px;
+    }
+    
+    .promo img {
+        width: 50%;
+    }
+    
+    #Shonjibon-text {
+        color: red;
+    }
+    
+    .left-margin-promo {
+        margin-left: 10%;
+    }
