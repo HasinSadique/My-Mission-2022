@@ -54,6 +54,7 @@
     #my-mission {
         text-align: center;
         font-size: 36px;
+        margin-bottom: 50px;
     }
     
     #mission {
@@ -114,7 +115,9 @@
     
     footer{
         background-color: black;
+        height: 14vh;
     }
+    
     footer h2 {
         font-family: cursive;
         text-align: center;
@@ -122,6 +125,7 @@
     
     footer p {
         text-align: center;
+        font-size: 15px;
     }
 
     footer h6 {
@@ -142,11 +146,12 @@
     }
     
     .promo img {
-        width: 50%;
+        width: 40%;
     }
     
     #Shonjibon-text {
         color: red;
+        
     }
     
     .left-margin-promo {
