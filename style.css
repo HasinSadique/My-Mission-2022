@@ -6,7 +6,7 @@
     
     body {
         /* background-color: black; */
-        background-image: linear-gradient(to left,black, rgb(66, 66, 66));
+        background-image: linear-gradient(to right,black, rgb(66, 66, 66));
         color: white;
         padding-top: 5%;
         margin: 0%;
@@ -86,7 +86,7 @@
     
     #goals {
         width: 30%;
-        background-color: burlywood;
+        background-color: rgb(0, 131, 163);
         margin-right: 20px;
         /* padding: 30%; */
         padding: 10px 25px;
@@ -115,7 +115,7 @@
     
     footer{
         background-color: black;
-        height: 20vh;
+        height: 17vh;
     }
     
     footer h2 {
